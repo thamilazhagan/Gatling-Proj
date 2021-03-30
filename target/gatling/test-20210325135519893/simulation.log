@@ -1,0 +1,7 @@
+RUN	simulations.test	test	1616680519893	 	3.5.1
+USER	Insight API Performance	START	1616680522513
+REQUEST	LogIn Call	Login Page	1616680522550	1616680524718	OK	 
+GROUP	LogIn Call	1616680522514	1616680524736	2168	OK
+ERROR	get single user url: Failed to build request: No attribute named 'Userurl' is defined 	1616680524742
+GROUP	CCssVV	1616680524737	1616680526761	0	KO
+USER	Insight API Performance	END	1616680526770

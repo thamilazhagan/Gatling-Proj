@@ -1,0 +1,36 @@
+path,request_name
+litigation_campaign/191,Chinese Campaign Page Navigation
+litigation_campaign/35043,DC Campaign Page Navigation
+entity/87697,Entity page Navigation
+litigation/7596,Litigation Page Navigation
+federal_circuit/3009989,FC Page Navigation
+lawfirm/59146,Lawfirm page Navigation
+tech_center/1676046,TechCentre Page Navigation
+litigation/china/4001216,Chinese Litigation Page Navigation
+china/prb/5012417,Chinese PRB Page Navigation
+reexaminations/7015713,Reexamination Page Navigation
+ptabs/1,PTAB Page Navigation
+venues/96476,Venues Page Navigation
+judges/98129,Judges Page Navigation
+ptab/judge/1004108,PTAB Judges Page Navigation
+china/judge/991405,Chinese Judges Page Navigation
+news/60076,News Page Navigation
+itc/880,ITC Page Navigation
+rpxpriorartsearchreports,Prior Art Search Result Page Navigation
+lca_reports,Litigation Campaign Assessments Report Page Navigation
+advanced_search/,Advanced Search Page Navigation
+pat/US6179053B1,Patent Detail Page Navigation
+patent/cn/CN204159473U,Chinese Patent Detail Page Navigation
+portfolios/1078258,Portfolio Detail Page Navigation
+acquisitions/6960,Acquisitions Detail Page Navigation
+analytics/ptab,Ptabs Analytics Detail Page Navigation
+advanced_search/search_all#grouped=true&utf8=%E2%9C%93,All Search Page Navigation
+advanced_search/search_litigations#grouped=true&utf8=%E2%9C%93,Litigation Search Page Navigation
+advanced_search/search_entities#grouped=true&utf8=%E2%9C%93,Entity Search Page Navigation
+advanced_search/search_patents#grouped=true&utf8=%E2%9C%93,Patent Search Page Navigation
+advanced_search/search_marketplaces#grouped=true&utf8=%E2%9C%93,Market Place Search Page Navigation
+advanced_search/search_portfolios#grouped=true&utf8=%E2%9C%93,Portfolios Search Page Navigation
+news/details,News Search Page Navigation
+advanced_search/search_judges?,Judges Search Page Navigation
+advanced_search/search_lawfirms?,Law Firms Search Page Navigation
+advanced_search/search_venues?,Venues Search Page Navigation
